@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">activity1</string>
+    <string name="NamaToko">Toko Ini Punya dila</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="button">OKE</string>
+    <string name="tData">Data anda</string>
+    <string name="tEmail">Email: </string>
+    <string name="tPassword">Password: </string>
+    <string name="tXemail">Ini hasil Email</string>
+    <string name="tXpassword">Ini hasil password</string>
+    <string name="label2">Login Berhasil</string>
+
+
+
+</resources>
